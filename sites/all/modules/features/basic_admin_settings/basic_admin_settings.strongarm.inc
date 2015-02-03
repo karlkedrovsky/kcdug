@@ -59,6 +59,7 @@ function basic_admin_settings_strongarm() {
   $strongarm->value = array(
     'overlay' => 1423003447,
     'strongarm' => 1423005105,
+    'diff' => 1423007454,
   );
   $export['module_filter_recent_modules'] = $strongarm;
 
