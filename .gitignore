@@ -4,10 +4,6 @@
 /files/*
 /cache
 
-# Ignore default settings.php
-# Developers should use their own local settings.php for local dev
-/sites/default/settings.php
-
 # Ignore local dev settings.php
 # settings.local.php will be specific to each individual dev and local enviroment
 /sites/default/settings.local.php
