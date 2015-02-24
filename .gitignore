@@ -6,7 +6,7 @@
 
 # Ignore local dev settings.php
 # settings.local.php will be specific to each individual dev and local enviroment
-/sites/default/settings.local.php
+/sites/default/settings.php
 
 # ** Only works in OSs that support newer versions of fnmatch (Bash 4+)
 /sites/default/**/files
